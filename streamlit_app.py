@@ -14,4 +14,4 @@ selected = option_menu(
 )
 
 if selected == "Introduction":
-    st.write("My name is Deema. I am a study abroad student from NYU Abu Dhabi. I am a computer science major. This is my first application for this class :)")
+    st.write("My name is Deema. This is my first application for this class :)")
